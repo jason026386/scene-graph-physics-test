@@ -1,1 +1,1 @@
-# scene-graph-physics-test
+# pixi-physics-test

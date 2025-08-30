@@ -1,0 +1,1 @@
+import './pixi-physics/index'
